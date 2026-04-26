@@ -38,7 +38,9 @@ assignment/
 
 ├── app.py                             # FastAPI application
 ├── ekantipur_articles_20260426_170237.csv  # Scraped articles data
-└── README.md                          # This file
+├── readme.md
+└── ... rest program generated  outputs 
+
 ```
 
 ## Notebooks Description
@@ -154,11 +156,12 @@ The project demonstrates:
 - REST API implementation
 
 ## Notes
-
+- This readme and notebook write up is assisted by assistants.
 - All notebooks are designed to be run sequentially
 - Ensure all dependencies are installed before running
 - Selenium requires ChromeDriver (automatically handled by webdriver-manager)
 - Some notebooks may take time depending on data size and model complexity
+
 
 ## Author
 
